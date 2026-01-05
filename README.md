@@ -21,7 +21,7 @@ I work end-to-end: architecture, development, deployment, and automation.
 **Backend**
 - Node.js · NestJS · Express
 - REST APIs · JWT · Webhooks
-- PostgreSQL · TypeORM · Prisma
+- PostgreSQL · TypeORM
 
 **Cloud & DevOps**
 - AWS (EC2, S3, RDS, Lambda, CloudFront, SES, IAM, CloudWatch)
