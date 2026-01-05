@@ -1,6 +1,6 @@
 # Hi, I'm Julio D’Orazi 👋
 
-Software Engineer specialized in building **scalable SaaS platforms**.  
+Software Engineer specialized in building **scalable SaaS platforms**.
 Strong backend focus with **NestJS, Node.js, PostgreSQL**, cloud infrastructure on **AWS**, and complex **Stripe payment integrations**.
 
 I work end-to-end: architecture, development, deployment, and automation.
